@@ -2,7 +2,7 @@
 
 🎓 Second-year Applied Computer Science student at the University of Mascareignes
 📍 Mauritius
-🎯 Career Goal: Database Administrator / Back-End Developer (Java & PHP)
+🎯 Career Goal: Database Administrator / Back-End Developer (Java & PHP) /Full-Stack Developer 
 🔐 Long-term Goal: Cybersecurity Specialist
 
 🚀 About Me
@@ -14,13 +14,14 @@ I am currently seeking an internship opportunity where I can contribute, learn f
 
 💻 Technical Skills
 👨‍💻 Programming Languages
-Java (OOP, database connectivity, application logic)
+Java (basics)
 PHP (dynamic web applications)
 Python (scripting and algorithms)
 SQL (database design and advanced queries)
 
 🌐 Web Development
 HTML / CSS
+JavaScript
 PHP & MySQL
 Basic MVC architecture
 
@@ -33,15 +34,8 @@ MySQL
 🛠️ Tools
 Git & GitHub
 IntelliJ / VS Code/ Apache Netbeans
-XAMP
+XAMPP
 MySQL/POSTGRESQL/SQL Server
-
-📂 Projects
-🔹 Java Management System with MySQL integration
-🔹 PHP CRUD Web Application
-🔹 Python algorithm mini-projects
-🔹 Object-Oriented Programming projects with database connection
-(All projects are available in my repositories.)
 
 🎯 Career Objectives
 Short-term:
