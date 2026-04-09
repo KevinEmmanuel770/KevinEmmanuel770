@@ -2,7 +2,7 @@
 
 🎓 Second-year Applied Computer Science student at the University of Mascareignes
 📍 Mauritius
-🎯 Career Goal: Database Administrator / Back-End Developer (Java & PHP) /Full-Stack Developer 
+🎯 Career Goal:Full-Stack Developer / Back-end developer
 🔐 Long-term Goal: Cybersecurity Specialist
 
 🚀 About Me
@@ -21,7 +21,7 @@ SQL (database design and advanced queries)
 
 🌐 Web Development
 HTML / CSS
-JavaScript
+JavaScript/ ReactJSX -TypeScript
 PHP & MySQL
 Basic MVC architecture
 
